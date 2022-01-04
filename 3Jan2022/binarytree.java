@@ -139,7 +139,7 @@ public class binarytree{
     }
 
     public static void printKLevelsDown(Node node,int k){
-        if(node == null || k<0) return;
+        if(node == null) return;
 
         if(k==0) System.out.println(node.data);
 
