@@ -1,0 +1,10 @@
+
+Execution Context 
+pura code h global execution Context
+
+execution context 
+
+environment variable (laymen memory)
+
+thread execution (laymen code chalta h)
+
